@@ -8,7 +8,7 @@ A retro-style action adventure game featuring a knight on a quest to defeat enem
 
 ## Download
 
-Download the game executable: [KnightKing.exe](gameexport/KnightKing.exe)
+Download the game executable: [FirstGame.exe](gameexport/FirstGame.exe)
 
 ## Features
 
