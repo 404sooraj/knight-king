@@ -26,7 +26,6 @@ Clone the repository and run the game according to your platform's instructions.
 
 - Arrow keys: Move
 - Space: Jump
-- Z: Attack
 
 ## Contributing
 
