@@ -248,22 +248,22 @@ shape = SubResource("WorldBoundaryShape2D_5aext")
 [node name="Coins" type="Node" parent="." unique_id=1507595209]
 
 [node name="Coin" parent="Coins" unique_id=27388212 instance=ExtResource("4_cb5na")]
-position = Vector2(71, -66)
+position = Vector2(69, -55)
 
 [node name="Coin2" parent="Coins" unique_id=1689858995 instance=ExtResource("4_cb5na")]
-position = Vector2(325, -12)
+position = Vector2(325, -7)
 
 [node name="Coin3" parent="Coins" unique_id=2023288277 instance=ExtResource("4_cb5na")]
-position = Vector2(199, -64)
+position = Vector2(197, -55)
 
 [node name="Coin4" parent="Coins" unique_id=1932223170 instance=ExtResource("4_cb5na")]
-position = Vector2(198, 52)
+position = Vector2(166, 15)
 
 [node name="Coin5" parent="Coins" unique_id=498455934 instance=ExtResource("4_cb5na")]
-position = Vector2(138, 54)
+position = Vector2(133, 57)
 
 [node name="Coin6" parent="Coins" unique_id=1180902762 instance=ExtResource("4_cb5na")]
-position = Vector2(73, 53)
+position = Vector2(69, 57)
 
 [node name="Coin7" parent="Coins" unique_id=514497453 instance=ExtResource("4_cb5na")]
 position = Vector2(869, -24)
